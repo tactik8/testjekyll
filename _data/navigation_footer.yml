@@ -1,8 +1,8 @@
 - name: Home
-  link: /testjekyll
+  link: 
 - name: Blog
-  link: /testjekyll/blog.html
+  link: /blog.html
 - name: Privacy
-  link: /testjekyll/privacy.html
+  link: /privacy.html
 - name: Terms and conditions
-  link: /testjekyll/terms_and_conditions.html
+  link: /terms_and_conditions.html

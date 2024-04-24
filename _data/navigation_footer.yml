@@ -1,0 +1,8 @@
+- name: Home
+  link: /testjekyll
+- name: Blog
+  link: /testjekyll/blog.html
+- name: Privacy
+  link: /testjekyll/privacy.html
+- name: Terms and conditions
+  link: /testjekyll/terms_and_conditions.html
